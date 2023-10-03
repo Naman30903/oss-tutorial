@@ -1,1 +1,5 @@
 this is first git commit
+
+
+this is the second commit
+The changes have been made
